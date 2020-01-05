@@ -182,5 +182,149 @@
     "gender": "female",
     "voice": "Sarah Silverman",
     "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Miss Schnur",
+    "age": 39,
+    "description": "Miss. Schnur is the secretary to Principal Spoors",
+    "gender": "female",
+    "voice": "Sarah Silverman",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Alex Papasian",
+    "age": 11,
+    "description": "a Wagstaff School student and one of Gene's best friends",
+    "gender": "male",
+    "voice": "Thomas Middleditch",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Chloe Barbash",
+    "age": 13,
+    "description": "a student at Wagstaff School",
+    "gender": "female",
+    "voice": "Stephanie Beatriz",
+    "image": "www.donthaveityet.com"
+  },
+  ({
+    "name": "Choo-Choo",
+    "age": 11,
+    "description": "a student at Wagstaff School and Gene's nemesis",
+    "gender": "male",
+    "voice": "Brian Poshen",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Courtney Wheeler",
+    "age": 11,
+    "description": "Gene's ex-girlfriend",
+    "gender": "female",
+    "voice": "David Wain",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Darryl",
+    "age":11,
+    "description": "a student at Wagstaff School and a video game enthusiast",
+    "gender": "male",
+    "voice": "Aziz Ansari",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Henry Haber",
+    "age":13,
+    "description": "a student at Wagstaff School",
+    "gender": "male",
+    "voice": "Jim Gaffigan",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Jeremy",
+    "age":9,
+    "description": "one of Louise's classmates.",
+    "gender": "male",
+    "voice": "H Jon Benjamin",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Jocelyn",
+    "age":13,
+    "description": "a student at Wagstaff School",
+    "gender": "female",
+    "voice": "John Roberts",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Jodi",
+    "age":9,
+    "description": "one of Louise's classmates.",
+    "gender": "male",
+    "voice": "H Jon Benjamin",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Large Tommy",
+    "age":10,
+    "description": "an overweight nerd-looking student who has brown hair and wears a red shirt and glasses",
+    "gender": "male",
+    "voice": "Larry Murphy",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Lenny DeStefano",
+    "age":12,
+    "description": "Lenny is an extremely popular and handsome boy, considered the biggest catch at Wagstaff among the girls",
+    "gender": "male",
+    "voice": "Larry Murphy",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Mabel 'Abby' Haddington",
+    "age":9,
+    "description": "one of Louise's classmates.",
+    "gender": "female",
+    "voice": "Rachel Dratch",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Millie Frock",
+    "age":9,
+    "description": "is Louise's age and is obsessed with her",
+    "gender": "female",
+    "voice": "Molly Shannon",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Peter Pescadaero",
+    "age":11,
+    "description": "Peter Pescadero is a wimpy boy who is one of Gene's classmates. He is a terrible dancer",
+    "gender": "male",
+    "voice": "H Jon Benjamin",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Regular-Sized Rudy",
+    "age":9,
+    "description": "Rudolph Steiblitz- is Louise's classmate, best friend and love interest.",
+    "gender": "male",
+    "voice": "Brian Huskey",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Tammy Larsen",
+    "age":11,
+    "description": "Tina's mean girl nemesis, who continuously bullies her",
+    "gender": "female",
+    "voice": "Jenny Slate",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Zeke",
+    "age":11,
+    "description": " Zeke is a boisterous and immature boy with a southern accent, who is best friends and often seen with Jimmy Junior",
+    "gender": "male",
+    "voice": "Bobby Tisdale",
+    "image": "www.donthaveityet.com"
   }
 ]
