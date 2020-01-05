@@ -1,58 +1,186 @@
 [
   {
     "name": "Bob Belcher",
-    "age": 40,
+    "age": 47,
     "description": "Father - main character",
     "gender": "male",
+    "voice": "H. Jon Benjamin",
     "image": "www.donthaveityet.com"
   },
   {
     "name": "Linda Belcher",
-    "age": 40,
+    "age": 45,
     "description": "Mother - main character",
     "gender": "female",
+    "voice": "John Roberts",
     "image": "www.donthaveityet.com"
   },
   {
-      "name": "Tina Belcher",
-      "age": 12,
-      "description": "Daughter - main character",
-      "gender": "female",
-      "image": "www.donthaveityet.com"
-    },
-    {
-      "name": "Gene Belcher",
-      "age": 10,
-      "description": "Son - main character",
-      "gender": "male",
-      "image": "www.donthaveityet.com"
-    },
-    {
-      "name": "Louise Belcher",
-      "age": 8,
-      "description": "Daughter - main character",
-      "gender": "female",
-      "image": "www.donthaveityet.com"
-    },
-    {
-      "name": "Teddy",
-      "age": 42,
-      "description": "Handy-man main-support character",
-      "gender": "male",
-      "image": "www.donthaveityet.com"
-    },
-    {
-      "name": "Mort",
-      "age": 37,
-      "description": "Mortician - main-support character",
-      "gender": "male",
-      "image": "www.donthaveityet.com"
-    },
-    {
-      "name": "Gail",
-      "age": 38,
-      "description": "Linda's sister - main-support character",
-      "gender": "female",
-      "image": "www.donthaveityet.com"
-    }
+    "name": "Tina Belcher",
+    "age": 13,
+    "description": "Oldest Daughter - main character",
+    "gender": "female",
+    "voice": "Dan Mintz",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Gene Belcher",
+    "age": 11,
+    "description": "Middle Son - main character",
+    "gender": "male",
+    "voice": "Eugene Mirman",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Louise Belcher",
+    "age": 9,
+    "description": "Youngest Daughter - main character",
+    "gender": "female",
+    "voice": "Kristen Schaal",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Theodore 'Teddy' Francisco",
+    "age": 49,
+    "description": "Handy-man main-support character",
+    "gender": "male",
+    "voice": "Larry Murphy",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Mort",
+    "age": 44,
+    "description": "Mortician - main-support character",
+    "gender": "male",
+    "voice": "Andy Kindler",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Gayle",
+    "age": 42,
+    "description": "Linda's sister - main-support character",
+    "gender": "female",
+    "voice": "Megan Mullally",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Al",
+    "age": 75,
+    "description": "Linda's Father - main-family character",
+    "gender": "male",
+    "voice": "Sam Seder",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Gloria",
+    "age": 73,
+    "description": "Linda's Mother - main-family character",
+    "gender": "female",
+    "voice": "Renee Taylor",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Robert 'Big Bob' Belcher Sr. ",
+    "age": 76,
+    "description": "Bob's Father - main-family character",
+    "gender": "male",
+    "voice": "H. Jon Benjamin & Bill Hader",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Jimmy Pesto Sr",
+    "age": 47,
+    "description": "Bob's Rival - main-support character",
+    "gender": "male",
+    "voice": "Jay Johnston",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Jimmy Pesto Jr",
+    "age": 13,
+    "description": " Tina's on and off love interest - main-support character",
+    "gender": "male",
+    "voice": "H. Jon Benjamin",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Andy Pesto",
+    "age": 9,
+    "description": "Little brother of jimmy pesto jr = friend to Louise ",
+    "gender": "male",
+    "voice": "Sarah Silverman",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Ollie Pesto",
+    "age": 9,
+    "description": "Little brother of jimmy pesto jr = friend to Louise ",
+    "gender": "male",
+    "voice": "Laura Silverman",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Phillip Frond",
+    "age": 40,
+    "description": "school counselor of Wagstaff School",
+    "gender": "male",
+    "voice": "David Herman",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Coach Belvins",
+    "age": 44,
+    "description": "Coach Blevins is the gym teacher who wears shatterproof goggles",
+    "gender": "male",
+    "voice": "Larry Murphy",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Mr. Ambrose",
+    "age": 46,
+    "description": "Mr. Ambrose is the school librarian and the cheerleading coach who has a penchant for dramatism",
+    "gender": "male",
+    "voice": "Billy Eichner",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Mr. Branca",
+    "age": 53,
+    "description": "Mr. Branca is an immigrant janitor from an unknown country",
+    "gender": "male",
+    "voice": "David Herman",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Miss Jacobson",
+    "age": 39,
+    "description": "Miss. Jacobson is an eighth grade teacher",
+    "gender": "female",
+    "voice": "Melissa Bardin Galsky",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Miss LaBonz",
+    "age": 43,
+    "description": "Miss. LaBonz is the 4th grade teacher",
+    "gender": "female",
+    "voice": "H Jon Benjamin",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": " Miss Merkin",
+    "age": 59,
+    "description": "Miss. Merkin is a longtime music teacher at Wagstaff.",
+    "gender": "male",
+    "voice": "Brian Huskey",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Miss Schnur",
+    "age": 39,
+    "description": "Miss. Schnur is the secretary to Principal Spoors",
+    "gender": "female",
+    "voice": "Sarah Silverman",
+    "image": "www.donthaveityet.com"
+  }
 ]
