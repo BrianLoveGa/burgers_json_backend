@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Bob Belcher",
+    "age": 40,
+    "description": "Father - main character",
+    "gender": "male",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Linda Belcher",
+    "age": 40,
+    "description": "Mother - main character",
+    "gender": "female",
+    "image": "www.donthaveityet.com"
+  },
+  {
+      "name": "Tina Belcher",
+      "age": 12,
+      "description": "Daughter - main character",
+      "gender": "female",
+      "image": "www.donthaveityet.com"
+    },
+    {
+      "name": "Gene Belcher",
+      "age": 10,
+      "description": "Son - main character",
+      "gender": "male",
+      "image": "www.donthaveityet.com"
+    },
+    {
+      "name": "Louise Belcher",
+      "age": 8,
+      "description": "Daughter - main character",
+      "gender": "female",
+      "image": "www.donthaveityet.com"
+    },
+    {
+      "name": "Teddy",
+      "age": 42,
+      "description": "Handy-man main-support character",
+      "gender": "male",
+      "image": "www.donthaveityet.com"
+    },
+    {
+      "name": "Mort",
+      "age": 37,
+      "description": "Mortician - main-support character",
+      "gender": "male",
+      "image": "www.donthaveityet.com"
+    },
+    {
+      "name": "Gail",
+      "age": 38,
+      "description": "Linda's sister - main-support character",
+      "gender": "female",
+      "image": "www.donthaveityet.com"
+    }
+]
