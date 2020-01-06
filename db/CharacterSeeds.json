@@ -1,7 +1,7 @@
 [
   {
     "name": "Bob Belcher",
-    "age": 47,
+    "age": "47",
     "description": "Father - main character",
     "gender": "male",
     "voice": "H. Jon Benjamin",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Linda Belcher",
-    "age": 45,
+    "age": "45",
     "description": "Mother - main character",
     "gender": "female",
     "voice": "John Roberts",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Tina Belcher",
-    "age": 13,
+    "age": "13",
     "description": "Oldest Daughter - main character",
     "gender": "female",
     "voice": "Dan Mintz",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Gene Belcher",
-    "age": 11,
+    "age": "11",
     "description": "Middle Son - main character",
     "gender": "male",
     "voice": "Eugene Mirman",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Louise Belcher",
-    "age": 9,
+    "age": "9",
     "description": "Youngest Daughter - main character",
     "gender": "female",
     "voice": "Kristen Schaal",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Theodore 'Teddy' Francisco",
-    "age": 49,
+    "age": "49",
     "description": "Handy-man main-support character",
     "gender": "male",
     "voice": "Larry Murphy",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Mort",
-    "age": 44,
+    "age": "44",
     "description": "Mortician - main-support character",
     "gender": "male",
     "voice": "Andy Kindler",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Gayle",
-    "age": 42,
+    "age": "42",
     "description": "Linda's sister - main-support character",
     "gender": "female",
     "voice": "Megan Mullally",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Al",
-    "age": 75,
+    "age": "75",
     "description": "Linda's Father - main-family character",
     "gender": "male",
     "voice": "Sam Seder",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Gloria",
-    "age": 73,
+    "age": "73",
     "description": "Linda's Mother - main-family character",
     "gender": "female",
     "voice": "Renee Taylor",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Robert 'Big Bob' Belcher Sr. ",
-    "age": 76,
+    "age": "76",
     "description": "Bob's Father - main-family character",
     "gender": "male",
     "voice": "H. Jon Benjamin & Bill Hader",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Jimmy Pesto Sr",
-    "age": 47,
+    "age": "47",
     "description": "Bob's Rival - main-support character",
     "gender": "male",
     "voice": "Jay Johnston",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Jimmy Pesto Jr",
-    "age": 13,
+    "age": "13",
     "description": " Tina's on and off love interest - main-support character",
     "gender": "male",
     "voice": "H. Jon Benjamin",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Andy Pesto",
-    "age": 9,
+    "age": "9",
     "description": "Little brother of jimmy pesto jr = friend to Louise ",
     "gender": "male",
     "voice": "Sarah Silverman",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Ollie Pesto",
-    "age": 9,
+    "age": "9",
     "description": "Little brother of jimmy pesto jr = friend to Louise ",
     "gender": "male",
     "voice": "Laura Silverman",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Phillip Frond",
-    "age": 40,
+    "age": "40",
     "description": "school counselor of Wagstaff School",
     "gender": "male",
     "voice": "David Herman",
@@ -129,7 +129,7 @@
   },
   {
     "name": "Coach Belvins",
-    "age": 44,
+    "age": "44",
     "description": "Coach Blevins is the gym teacher who wears shatterproof goggles",
     "gender": "male",
     "voice": "Larry Murphy",
@@ -137,7 +137,7 @@
   },
   {
     "name": "Mr. Ambrose",
-    "age": 46,
+    "age": "46",
     "description": "Mr. Ambrose is the school librarian and the cheerleading coach who has a penchant for dramatism",
     "gender": "male",
     "voice": "Billy Eichner",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Mr. Branca",
-    "age": 53,
+    "age": "53",
     "description": "Mr. Branca is an immigrant janitor from an unknown country",
     "gender": "male",
     "voice": "David Herman",
@@ -153,7 +153,7 @@
   },
   {
     "name": "Miss Jacobson",
-    "age": 39,
+    "age": "39",
     "description": "Miss. Jacobson is an eighth grade teacher",
     "gender": "female",
     "voice": "Melissa Bardin Galsky",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Miss LaBonz",
-    "age": 43,
+    "age": "43",
     "description": "Miss. LaBonz is the 4th grade teacher",
     "gender": "female",
     "voice": "H Jon Benjamin",
@@ -169,7 +169,7 @@
   },
   {
     "name": " Miss Merkin",
-    "age": 59,
+    "age": "59",
     "description": "Miss. Merkin is a longtime music teacher at Wagstaff.",
     "gender": "male",
     "voice": "Brian Huskey",
@@ -177,23 +177,23 @@
   },
   {
     "name": "Miss Schnur",
-    "age": 39,
+    "age": "unknown",
     "description": "Miss. Schnur is the secretary to Principal Spoors",
     "gender": "female",
     "voice": "Sarah Silverman",
     "image": "www.donthaveityet.com"
   },
   {
-    "name": "Miss Schnur",
-    "age": 39,
-    "description": "Miss. Schnur is the secretary to Principal Spoors",
-    "gender": "female",
-    "voice": "Sarah Silverman",
+    "name": "Principal Spoors",
+    "age": "unknown",
+    "description": "Principal of Wagstaff school",
+    "gender": "male",
+    "voice": "unknown",
     "image": "www.donthaveityet.com"
   },
   {
     "name": "Alex Papasian",
-    "age": 11,
+    "age": "11",
     "description": "a Wagstaff School student and one of Gene's best friends",
     "gender": "male",
     "voice": "Thomas Middleditch",
@@ -201,15 +201,15 @@
   },
   {
     "name": "Chloe Barbash",
-    "age": 13,
+    "age": "13",
     "description": "a student at Wagstaff School",
     "gender": "female",
     "voice": "Stephanie Beatriz",
     "image": "www.donthaveityet.com"
   },
-  ({
+  {
     "name": "Choo-Choo",
-    "age": 11,
+    "age": "11",
     "description": "a student at Wagstaff School and Gene's nemesis",
     "gender": "male",
     "voice": "Brian Poshen",
@@ -217,7 +217,7 @@
   },
   {
     "name": "Courtney Wheeler",
-    "age": 11,
+    "age": "11",
     "description": "Gene's ex-girlfriend",
     "gender": "female",
     "voice": "David Wain",
@@ -225,7 +225,7 @@
   },
   {
     "name": "Darryl",
-    "age":11,
+    "age": "11",
     "description": "a student at Wagstaff School and a video game enthusiast",
     "gender": "male",
     "voice": "Aziz Ansari",
@@ -233,7 +233,7 @@
   },
   {
     "name": "Henry Haber",
-    "age":13,
+    "age": "13",
     "description": "a student at Wagstaff School",
     "gender": "male",
     "voice": "Jim Gaffigan",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Jeremy",
-    "age":9,
+    "age": "9",
     "description": "one of Louise's classmates.",
     "gender": "male",
     "voice": "H Jon Benjamin",
@@ -249,7 +249,7 @@
   },
   {
     "name": "Jocelyn",
-    "age":13,
+    "age": "13",
     "description": "a student at Wagstaff School",
     "gender": "female",
     "voice": "John Roberts",
@@ -257,7 +257,7 @@
   },
   {
     "name": "Jodi",
-    "age":9,
+    "age": "9",
     "description": "one of Louise's classmates.",
     "gender": "male",
     "voice": "H Jon Benjamin",
@@ -265,7 +265,7 @@
   },
   {
     "name": "Large Tommy",
-    "age":10,
+    "age": "10",
     "description": "an overweight nerd-looking student who has brown hair and wears a red shirt and glasses",
     "gender": "male",
     "voice": "Larry Murphy",
@@ -273,7 +273,7 @@
   },
   {
     "name": "Lenny DeStefano",
-    "age":12,
+    "age": "12",
     "description": "Lenny is an extremely popular and handsome boy, considered the biggest catch at Wagstaff among the girls",
     "gender": "male",
     "voice": "Larry Murphy",
@@ -281,7 +281,7 @@
   },
   {
     "name": "Mabel 'Abby' Haddington",
-    "age":9,
+    "age": "9",
     "description": "one of Louise's classmates.",
     "gender": "female",
     "voice": "Rachel Dratch",
@@ -289,7 +289,7 @@
   },
   {
     "name": "Millie Frock",
-    "age":9,
+    "age": "9",
     "description": "is Louise's age and is obsessed with her",
     "gender": "female",
     "voice": "Molly Shannon",
@@ -297,7 +297,7 @@
   },
   {
     "name": "Peter Pescadaero",
-    "age":11,
+    "age": "11",
     "description": "Peter Pescadero is a wimpy boy who is one of Gene's classmates. He is a terrible dancer",
     "gender": "male",
     "voice": "H Jon Benjamin",
@@ -305,7 +305,7 @@
   },
   {
     "name": "Regular-Sized Rudy",
-    "age":9,
+    "age": "9",
     "description": "Rudolph Steiblitz- is Louise's classmate, best friend and love interest.",
     "gender": "male",
     "voice": "Brian Huskey",
@@ -313,7 +313,7 @@
   },
   {
     "name": "Tammy Larsen",
-    "age":11,
+    "age": "11",
     "description": "Tina's mean girl nemesis, who continuously bullies her",
     "gender": "female",
     "voice": "Jenny Slate",
@@ -321,10 +321,354 @@
   },
   {
     "name": "Zeke",
-    "age":11,
+    "age": "11",
     "description": " Zeke is a boisterous and immature boy with a southern accent, who is best friends and often seen with Jimmy Junior",
     "gender": "male",
     "voice": "Bobby Tisdale",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Bryce",
+    "age": "13",
+    "description": "a teenage resident of King's Head Island who participates in the annual Hell Hunt and is an expert in Go-Karting racing",
+    "gender": "male",
+    "voice": "Joe Lo Truglio",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Calvin Fischoeder",
+    "age": "64",
+    "description": " Mr. Fischoeder is an odd local landlord and businessman who dresses in a white suit, a white cape, and a white eyepatch over his left eye",
+    "gender": "male",
+    "voice": "Kevin Kline",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Cha-Cha",
+    "age": "unknown",
+    "description": "A transgender prostitute who first appeared in 'Sheesh! Cab, Bob?'",
+    "gender": "trans",
+    "voice": "Oscar Nunez",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Clem Clemson",
+    "age": "unknown",
+    "description": "An ex-radio disc jockey",
+    "gender": "male",
+    "voice": "Nick Offerman",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Chuck Charles",
+    "age": "unknown",
+    "description": " A daytime talk-show host",
+    "gender": "male",
+    "voice": "Thomas Lennon",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Dr. Yap",
+    "age": "unknown",
+    "description": "  works as the Belcher Family's dentist   ",
+    "gender": "male",
+    "voice": "Ken Jeong",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Cynthia Bush",
+    "age": "unknown",
+    "description": "mother of Logan Barry Bush    ",
+    "gender": "female",
+    "voice": "Lindsey Stoddart",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Edith Cranwinkle",
+    "age": "unknown",
+    "description": "chairperson of the Art Crawl co-owner of Reflections art store  married to Harold",
+    "gender": "female",
+    "voice": "Larry Murphy",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Harold Cranwinkle",
+    "age": "unknown",
+    "description": "co-owner of Reflections art store - married to Edith",
+    "gender": "male",
+    "voice": "Bobby Tisdale",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Fanny",
+    "age": "unknown",
+    "description": "Felix Fischoeder's girlfriend aspiring singer",
+    "gender": "female",
+    "voice": "Bobby Tisdale",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Felix Fischoeder",
+    "age": "unknown",
+    "description": "the younger brother of Calvin Fischoeder known to be rather neurotic and as having emotional issues",
+    "gender": "male",
+    "voice": "Zach Galifianakis",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Glitter",
+    "age": "unknown",
+    "description": "A transgender sex worker who Bob regularly ferries around in his taxi",
+    "gender": "trans",
+    "voice": "Steve Agee",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Gretchen",
+    "age": "unknown",
+    "description": "Gretchen has blonde hair, and is Linda's hairstylist she is somewhat overweight and provocative",
+    "gender": "female",
+    "voice": "Larry Murphy",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Hugo Habercore",
+    "age": "unknown",
+    "description": "a health inspector who used to be engaged to Linda",
+    "gender": "male",
+    "voice": "Sam Seder",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Jairo",
+    "age": "unknown",
+    "description": "Brazilian capoeira instructor",
+    "gender": "male",
+    "voice": "Jon Glaser",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Javed Fazel",
+    "age": "unknown",
+    "description": "an entomologist and loves watching bugs",
+    "gender": "male",
+    "voice": "Larry Murphy",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Jen",
+    "age": "unknown",
+    "description": "the babysitter for Gene and Louise when Tina is unavailable",
+    "gender": "female",
+    "voice": " Wendy Molyneux",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Josh",
+    "age": "13",
+    "description": "A boy tina met who goes to a school for performing arts and is a ballet dancer",
+    "gender": "male",
+    "voice": "Ben Schwartz",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Kevin",
+    "age": "unknown",
+    "description": "manager of Dusty's Feedbag",
+    "gender": "male",
+    "voice": "Tim Heidecker",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Marbles",
+    "age": "unknown",
+    "description": "A transgender prostitute",
+    "gender": "trans",
+    "voice": "Jack McBrayer",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Logan Barry Bush",
+    "age": "unknown",
+    "description": "Louise's nemesis and Cynthia's son",
+    "gender": "male",
+    "voice": "Kurt Braunohler",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Marshmallow",
+    "age": "unknown",
+    "description": "The perfect thing to melt on top of sweet potatoes",
+    "gender": "trans",
+    "voice": "David Herman",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Mickey",
+    "age": "unknown",
+    "description": "A former bank robber who took a shine to the Belcher kids.",
+    "gender": "male",
+    "voice": "Bill Hader",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Mike Wobbles",
+    "age": "unknown",
+    "description": "The mailman and one of his legs is shorter than the other.",
+    "gender": "male",
+    "voice": "Tim Meadows",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Mr. Huggins",
+    "age": "unknown",
+    "description": "An eldery citizen who recently got a new bed",
+    "gender": "male",
+    "voice": "George Wallace",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Officer Julia",
+    "age": "unknown",
+    "description": "Julia is a local police officer",
+    "gender": "female",
+    "voice": "Jerry Minor",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Officer Cliffany",
+    "age": "unknown",
+    "description": "a local tall, androgynous, and overweight police officer.",
+    "gender": "male",
+    "voice": "Sam Seder",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Critter",
+    "age": "unknown",
+    "description": "leader of the one eyed snakes motorcycle gang",
+    "gender": "male",
+    "voice": "Bobby Tisdale",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Mudflap",
+    "age": "unknown",
+    "description": "Female member of one eyed snakes and lover to Critter",
+    "gender": "female",
+    "voice": "Wendi McClendon-Covey",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Olsen Brenner",
+    "age": "unknown",
+    "description": "local news correspondent",
+    "gender": "female",
+    "voice": "Pamela Adlon",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Pam",
+    "age": "unknown",
+    "description": "daytime talk-show host - Chuck's ex wife",
+    "gender": "female",
+    "voice": "Samantha Bee",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "The Prince of Persuasia",
+    "age": "unknown",
+    "description": "The 'Deuce', the 'love guru', a baseball coach, scam artist ",
+    "gender": "male",
+    "voice": "Rob Huebel",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Randy Watkins",
+    "age": "unknown",
+    "description": "Randy is a jack-of-all-trades who alternately appears as a friend or enemy of the Belchers",
+    "gender": "male",
+    "voice": "Paul F. Tompkins",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Reggie",
+    "age": "unknown",
+    "description": "owner of Reggie's Deli, gives the wet willie",
+    "gender": "male",
+    "voice": "Eddie Pepitone",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Ron",
+    "age": "unknown",
+    "description": "Hugo's assistant/trainee health inspector",
+    "gender": "female",
+    "voice": "Bobby Tisdale",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Samantha",
+    "age": "unknown",
+    "description": "A blind date for Mort",
+    "gender": "female",
+    "voice": "Amy Sedaris",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Sasha Whiteman",
+    "age": "unknown",
+    "description": "member of the King's Head Island school swim and debate team",
+    "gender": "male",
+    "voice": "Jon Daly",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Sergant Bosco",
+    "age": "unknown",
+    "description": "An authoritarian, no-nonsense police sergeant",
+    "gender": "male",
+    "voice": "Gary Cole",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Speedo Guy",
+    "age": "unknown",
+    "description": " 'unnamed' blonde man in a pink speedo and roller blades who appears randomly in the series",
+    "gender": "male",
+    "voice": "H Jon Benjamin",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Torpedo Jones",
+    "age": "unknown",
+    "description": "a former baseball player who also happens to be Bob's idol",
+    "gender": "male",
+    "voice": "Robert Ben Garant",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Trev",
+    "age": "unknown",
+    "description": "a bartender at Jimmy Pesto's Pizzeria - Jimmy's #2 guy",
+    "gender": "male",
+    "voice": "David Herman",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Yuli",
+    "age": "unknown",
+    "description": "security guard that works at : Family Funtime, the roller rink, and Wagstaff school",
+    "gender": "female",
+    "voice": "Bobby Tisdale",
+    "image": "www.donthaveityet.com"
+  },
+  {
+    "name": "Horny Dave",
+    "age": "unknown",
+    "description": "Original leader of the One Eyed Snakes motorcycle gang, survived a vasectomy in 1995",
+    "gender": "male",
+    "voice": "unknown",
     "image": "www.donthaveityet.com"
   }
 ]

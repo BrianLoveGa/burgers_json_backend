@@ -2,7 +2,7 @@ const mongoose = require("../db/connection");
 
 const CharacterSchema = new mongoose.Schema({
   name: String,
-  age: Number,
+  age: String,
   description: String,
   gender: String,
   voice:String,
