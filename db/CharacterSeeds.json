@@ -1,842 +1,1662 @@
 [
   {
+    "number": 1,
     "name": "Robert 'Bob' Belcher Jr.",
     "age": "44-46",
+    "group": "adult",
     "description": "Father - main character",
     "gender": "male",
     "voice": "H. Jon Benjamin",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/3e/Bobbelcher2.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/3e/Bobbelcher2.png",
+    "quote": ""
   },
   {
+    "number": 2,
     "name": "Linda Belcher",
     "age": "45",
+    "group": "adult",
     "description": "Mother - main character",
     "gender": "female",
     "voice": "John Roberts",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/b7/Lindab.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/b7/Lindab.png",
+    "quote": ""
   },
   {
+    "number": 3,
     "name": "Tina Belcher",
     "age": "13",
+    "group": "kid",
     "description": "Oldest Daughter - main character",
     "gender": "female",
     "voice": "Dan Mintz",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/6e/Tina_render.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/6e/Tina_render.png",
+    "quote": ""
   },
   {
+    "number": 4,
     "name": "Gene Belcher",
     "age": "11",
+    "group": "kid",
     "description": "Middle Son - main character",
     "gender": "male",
     "voice": "Eugene Mirman",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/b7/Gene_Belcher.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/b7/Gene_Belcher.png",
+    "quote": ""
   },
   {
+    "number": 5,
     "name": "Louise Belcher",
     "age": "9",
+    "group": "kid",
     "description": "Youngest Daughter - main character",
     "gender": "female",
     "voice": "Kristen Schaal",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/b9/Louise_render.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/b9/Louise_render.png",
+    "quote": ""
   },
   {
+    "number": 6,
     "name": "Theodore 'Teddy' Francisco",
     "age": "53",
+    "group": "adult",
     "description": "Handy-man main-support character",
     "gender": "male",
     "voice": "Larry Murphy",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/5e/Teddy.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/5e/Teddy.png",
+    "quote": ""
   },
   {
+    "number": 7,
     "name": "Mort",
-    "age": "44",
+    "age": "50's",
+    "group": "adult",
     "description": "Mortician - main-support character",
     "gender": "male",
     "voice": "Andy Kindler",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/8/81/Mort2.png",
+    "quote": ""
   },
   {
+    "number": 8,
     "name": "Gayle",
     "age": "42",
+    "group": "adult",
     "description": "Linda's sister - main-support character",
     "gender": "female",
     "voice": "Megan Mullally",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/2/27/Gayle.png",
+    "quote": ""
   },
   {
+    "number": 9,
     "name": "Al",
-    "age": "70's",
+    "age": "70's - senior",
+    "group": "adult",
     "description": "Linda's Father - main-family character",
     "gender": "male",
     "voice": "Sam Seder & H. Jon Benjamin",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/fc/Al2.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/fc/Al2.png",
+    "quote": ""
   },
   {
+    "number": 10,
     "name": "Gloria",
-    "age": "60's - 70's",
-    "description": "Linda's Mother - main-family character",
+    "age": "60's - 70's - senior",
+    "group": "adult",
+    "description": "Gayle & Linda's Mother - main-family character",
     "gender": "female",
     "voice": "Renee Taylor",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/a/a0/Gloria.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/a/a0/Gloria.jpg",
+    "quote": ""
   },
   {
+    "number": 11,
     "name": "Robert 'Big Bob' Belcher Sr. ",
-    "age": "70's",
+    "age": "70's - senior",
+    "group": "adult",
     "description": "Bob's Father - main-family character",
     "gender": "male",
     "voice": "H. Jon Benjamin & Bill Hader",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/65/Big-Bob-Belcher.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/65/Big-Bob-Belcher.jpg",
+    "quote": ""
   },
   {
-    "name": "Jimmy Pesto Sr",
-    "age": "47",
-    "description": "Bob's Rival - main-support character",
+    "number": 12,
+    "name": "James 'Jimmy Pesto' Poplopovich Sr",
+    "age": "40's",
+    "group": "adult",
+    "description": "Bob's Rival - main-support character - he runs Pesto's Pizzeria across the street from Bob's",
     "gender": "male",
     "voice": "Jay Johnston",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/32/Jimmy_Pesto.png",
+    "quote": ""
   },
   {
-    "name": "Jimmy Pesto Jr",
-    "age": "13",
-    "description": " Tina's on and off love interest - main-support character",
+    "number": 13,
+    "name": "James 'Jimmy Pesto jr.' Poplopovich, Jr",
+    "age": "13-14",
+    "group": "kid",
+    "description": " Tina's on and off love interest - main-support character, a bus boy at the Pizzeria, an avid dancer",
     "gender": "male",
     "voice": "H. Jon Benjamin",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/70/Jimmy_pesto_junior.png",
+    "quote": ""
   },
   {
+    "number": 14,
     "name": "Andy Pesto",
     "age": "9",
+    "group": "kid",
     "description": "Little brother of jimmy pesto jr = friend to Louise ",
     "gender": "male",
     "voice": "Laura Silverman",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/bb/Andy_and_Ollie_Pesto.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/bb/Andy_and_Ollie_Pesto.png",
+    "quote": ""
   },
   {
+    "number": 15,
     "name": "Ollie Pesto",
     "age": "9",
+    "group": "kid",
     "description": "Little brother of jimmy pesto jr = friend to Louise ",
     "gender": "male",
     "voice": "Sarah Silverman",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/bb/Andy_and_Ollie_Pesto.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/bb/Andy_and_Ollie_Pesto.png",
+    "quote": ""
   },
   {
+    "number": 16,
     "name": "Phillip Frond",
-    "age": "40",
-    "description": "school counselor of Wagstaff School",
+    "age": "40's",
+    "group": "adult",
+    "description": "school guidance counselor of Wagstaff well-intentioned but easily manipulated by his students",
     "gender": "male",
     "voice": "David Herman",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/1d/Phillip_Frond.png",
+    "quote": ""
   },
   {
+    "number": 17,
     "name": "Coach Belvins",
-    "age": "44",
+    "age": "40's",
+    "group": "adult",
     "description": "Coach Blevins is the gym teacher who wears shatterproof goggles",
     "gender": "male",
     "voice": "Larry Murphy",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/3e/Coach_Blevins.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/3e/Coach_Blevins.jpg",
+    "quote": ""
   },
   {
+    "number": 18,
     "name": "Mr. Ambrose",
-    "age": "46",
+    "age": "40's",
+    "group": "adult",
     "description": "Mr. Ambrose is the school librarian and the cheerleading coach who has a penchant for dramatism",
     "gender": "male",
     "voice": "Billy Eichner",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/17/Mr_Ambrose.jpg",
+    "quote": ""
   },
   {
+    "number": 19,
     "name": "Mr. Branca",
-    "age": "53",
-    "description": "Mr. Branca is an immigrant janitor from an unknown country",
+    "age": "50's - 60's",
+    "group": "adult",
+    "description": "Mr. Branca is an immigrant janitor from an unknown place. In his home country, he was President before a Coup d'état occurred.",
     "gender": "male",
     "voice": "David Herman",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/7b/Mr_Branca.jpg",
+    "quote": ""
   },
   {
+    "number": 20,
     "name": "Miss Jacobson",
-    "age": "39",
+    "age": "20's - 30's",
+    "group": "adult",
     "description": "Miss. Jacobson is an eighth grade teacher",
     "gender": "female",
     "voice": "Melissa Bardin Galsky",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/46/Ms_Jacobson-1.jpg",
+    "quote": ""
   },
   {
-    "name": "Miss LaBonz",
-    "age": "43",
+    "number": 21,
+    "name": "Ms. LaBonz",
+    "age": "40's - 50's",
+    "group": "adult",
     "description": "Miss. LaBonz is the 4th grade teacher",
     "gender": "female",
     "voice": "H Jon Benjamin",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/1c/Ms_LaBonz.jpg",
+    "quote": ""
   },
   {
-    "name": " Miss Merkin",
-    "age": "59",
+    "number": 22,
+    "name": " Matilda Merkin (Ms. Merkin)",
+    "age": "60's - 70's",
+    "group": "adult",
     "description": "Miss. Merkin is a longtime music teacher at Wagstaff.",
-    "gender": "male",
+    "gender": "female",
     "voice": "Brian Huskey",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/41/Mrs_Merkin.jpg",
+    "quote": ""
   },
   {
+    "number": 23,
     "name": "Miss Schnur",
-    "age": "unknown - adult",
-    "description": "Miss. Schnur is the secretary to Principal Spoors",
+    "age": "50's - 70's",
+    "group": "adult",
+    "description": "Miss. Schnur is the secretary to Principal Spoors she likes the movies of Brendan Fraser and David Schwimmer.",
     "gender": "female",
     "voice": "Sarah Silverman",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/2/22/Ms._Schnur.jpg",
+    "quote": ""
   },
   {
+    "number": 24,
     "name": "Principal Spoors",
-    "age": "unknown  - adult",
-    "description": "Principal of Wagstaff school",
+    "age": "40's-60's",
+    "group": "adult",
+    "description": "Mysterious Principal of Wagstaff school whose face has never been seen",
     "gender": "male",
     "voice": "unknown",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/f2/Spoors.png",
+    "quote": ""
   },
   {
+    "number": 25,
     "name": "Alex Papasian",
-    "age": "11",
+    "age": "11-12",
+    "group": "kid",
     "description": "a Wagstaff School student and one of Gene's best friends",
     "gender": "male",
     "voice": "Thomas Middleditch",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/04/Alex.png",
+    "quote": ""
   },
   {
+    "number": 26,
     "name": "Chloe Barbash",
-    "age": "13",
-    "description": "a student at Wagstaff School",
+    "age": "10",
+    "group": "kid",
+    "description": "a student at Wagstaff School Reportedly uses a full bottle of shampoo every time she washes her hair. According to Rudy, it smells like 'someone is baking a cake in her hair.' ",
     "gender": "female",
     "voice": "Stephanie Beatriz",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/f5/Chloe.jpg",
+    "quote": ""
   },
   {
+    "number": 27,
     "name": "Choo-Choo",
     "age": "11",
+    "group": "kid",
     "description": "a student at Wagstaff School and Gene's nemesis",
     "gender": "male",
     "voice": "Brian Poshen",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/f5/Choo-Choo.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/f5/Choo-Choo.jpg",
+    "quote": ""
   },
   {
+    "number": 28,
     "name": "Courtney Wheeler",
     "age": "11-12",
+    "group": "kid",
     "description": "Gene's ex-girlfriend a fan of sucking on her necklace and being annoying.",
     "gender": "female",
     "voice": "David Wain",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/ea/Courtney.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/ea/Courtney.png",
+    "quote": ""
   },
   {
+    "number": 29,
     "name": "Darryl",
     "age": "12-13",
+    "group": "kid",
     "description": "A student at Wagstaff School and a video game enthusiast who is afraid of spiders.",
     "gender": "male",
     "voice": "Aziz Ansari",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/5a/Darryl-2.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/5a/Darryl-2.jpg",
+    "quote": ""
   },
   {
+    "number": 30,
     "name": "Henry Haber",
-    "age": "13",
-    "description": "a student at Wagstaff School",
+    "age": "13-14",
+    "group": "kid",
+    "description": "a student at Wagstaff School the 'school weirdo'. He in turn thinks that Tina is a dork as well.",
     "gender": "male",
     "voice": "Jim Gaffigan",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/9/90/HenryHaber.png",
+    "quote": ""
   },
   {
+    "number": 31,
     "name": "Jeremy",
     "age": "9",
-    "description": "one of Louise's classmates.",
+    "group": "kid",
+    "description": "One of Louise's classmates, his favorite movie is War Horse.",
     "gender": "male",
     "voice": "H Jon Benjamin",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/60/Jeremy.jpg",
+    "quote": ""
   },
   {
+    "number": 32,
     "name": "Jocelyn",
-    "age": "13",
+    "age": "13-14",
+    "group": "kid",
     "description": "a student at Wagstaff School",
     "gender": "female",
     "voice": "John Roberts",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/7e/Jocelyn.png",
+    "quote": ""
   },
   {
+    "number": 33,
     "name": "Jodi",
-    "age": "9",
-    "description": "one of Louise's classmates.",
-    "gender": "male",
-    "voice": "H Jon Benjamin",
-    "image": "www.donthaveityet.com"
+    "age": "9-10",
+    "group": "kid",
+    "description": "One of Louise's classmates a germ-a-phobe and member of thundergirls troop 119.",
+    "gender": "female",
+    "voice": "Rachel Dratch",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/b6/Jodi.jpg",
+    "quote": ""
   },
   {
+    "number": 34,
     "name": "Large Tommy",
-    "age": "10",
+    "age": "9",
+    "group": "kid",
     "description": "an overweight nerd-looking student who has brown hair and wears a red shirt and glasses",
     "gender": "male",
     "voice": "Larry Murphy",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/5f/Large_Tommy.png",
+    "quote": ""
   },
   {
+    "number": 35,
     "name": "Lenny DeStefano",
     "age": "12",
+    "group": "kid",
     "description": "Lenny is an extremely popular and handsome boy, considered the biggest catch at Wagstaff among the girls",
     "gender": "male",
     "voice": "Larry Murphy",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/0d/Lenny_de_Stefano-1.jpg",
+    "quote": ""
   },
   {
+    "number": 36,
     "name": "Mabel 'Abby' Haddington",
     "age": "9-10",
+    "group": "kid",
     "description": "One of Louise's classmates who is slighty obsessed with hair braiding.",
     "gender": "female",
     "voice": "Rachel Dratch",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/55/Abby.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/55/Abby.jpg",
+    "quote": ""
   },
   {
+    "number": 37,
     "name": "Millie Frock",
-    "age": "9",
+    "age": "10",
+    "group": "kid",
     "description": "is Louise's age and is obsessed with her",
     "gender": "female",
     "voice": "Molly Shannon",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/3d/Millie_Frock.jpg",
+    "quote": ""
   },
   {
+    "number": 38,
     "name": "Peter Pescadaero",
     "age": "11",
-    "description": "Peter Pescadero is a wimpy boy who is one of Gene's classmates. He is a terrible dancer",
+    "group": "kid",
+    "description": "Peter Pescadero is a wimpy boy who is one of Gene's classmates. He is a terrible dancerHe practices magic under the name, 'The Impescadaralist.' ",
     "gender": "male",
     "voice": "H Jon Benjamin",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/51/Peter_Pescadero.jpg",
+    "quote": ""
   },
   {
-    "name": "Rudy 'Regular-Sized-Rudy'  Stieblitz",
-    "age": "9",
+    "number": 39,
+    "name": "Rudolph Rudy 'Regular-Sized-Rudy' Stieblitz",
+    "age": "9-10",
+    "group": "kid",
     "description": "Rudolph Steiblitz- is Louise's classmate, best friend and occasional love interest.",
     "gender": "male",
     "voice": "Brian Huskey",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/8/8d/Regular-Rudy.jpg",
+    "quote": ""
   },
   {
+    "number": 40,
     "name": "Tammy Larsen",
-    "age": "11",
-    "description": "Tina's mean girl nemesis, who continuously bullies her",
+    "age": "12-14",
+    "group": "kid",
+    "description": "Tina's mean girl nemesis, who continuously bullies her and sometimes has a gas problem",
     "gender": "female",
     "voice": "Jenny Slate",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/e9/Tammy_Larsen.jpg",
+    "quote": ""
   },
   {
+    "number": 41,
     "name": "Zeke",
-    "age": "11",
+    "age": "13",
+    "group": "kid",
     "description": " Zeke is a boisterous and immature boy with a southern accent, who is best friends and often seen with Jimmy Junior",
     "gender": "male",
     "voice": "Bobby Tisdale",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/69/Vlcsnap-2013-03-05-10h47m16s100.png",
+    "quote": ""
   },
   {
+    "number": 42,
     "name": "Bryce",
     "age": "13",
+    "group": "kid",
     "description": "a teenage resident of King's Head Island who participates in the annual Hell Hunt and is an expert in Go-Karting racing",
     "gender": "male",
     "voice": "Joe Lo Truglio",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/ce/Bryce.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/ce/Bryce.jpg",
+    "quote": ""
   },
   {
+    "number": 43,
     "name": "Calvin Fischoeder",
-    "age": "64",
+    "age": "60's",
+    "group": "adult",
     "description": " Mr. Fischoeder is an odd local landlord and businessman who dresses in a white suit, a white cape, and a white eyepatch over his left eye",
     "gender": "male",
     "voice": "Kevin Kline",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/7e/Mr._Fischoeder.png",
+    "quote": ""
   },
   {
+    "number": 44,
     "name": "Cha-Cha",
-    "age": "unknown - adult",
+    "age": "20's - 50's",
+    "group": "adult",
     "description": "A transgender prostitute who first appeared in 'Sheesh! Cab, Bob?'",
     "gender": "trans",
     "voice": "Oscar Nunez",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/42/Chacha.jpg",
+    "quote": ""
   },
   {
-    "name": "Clem Clemson",
-    "age": "unknown - adult",
+    "number": 45,
+    "name": "Clem Clements",
+    "age": "50's - 60's",
+    "group": "adult",
     "description": "An ex-radio disc jockey",
     "gender": "male",
     "voice": "Nick Offerman",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/3d/Clem.png",
+    "quote": ""
   },
   {
+    "number": 46,
     "name": "Chuck Charles",
-    "age": "unknown - adult",
-    "description": " A daytime talk-show host",
+    "age": "30's-40's",
+    "group": "adult",
+    "description": " A daytime talk-show host on channel 13 and game show host",
     "gender": "male",
     "voice": "Thomas Lennon",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/cf/Chuck_Charles.jpg",
+    "quote": ""
   },
   {
+    "number": 47,
     "name": "Dr. Yap",
-    "age": "30's - adult",
+    "age": "30's",
+    "group": "adult",
     "description": "Works as the Belcher Family's dentist, also owns a blue guitar.",
     "gender": "male",
     "voice": "Ken Jeong",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/c1/Dr._Yap2.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/c1/Dr._Yap2.png",
+    "quote": ""
   },
   {
+    "number": 48,
     "name": "Cynthia Bush",
-    "age": "37 - 40 - adult",
+    "age": "37 - 40",
+    "group": "adult",
     "description": "mother of Logan Barry Bush    ",
     "gender": "female",
     "voice": "Lindsey Stoddart",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/fa/Cynthia_Bush.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/fa/Cynthia_Bush.jpg",
+    "quote": ""
   },
   {
+    "number": 49,
     "name": "Edith Cranwinkle",
-    "age": "unknown - adult",
-    "description": "chairperson of the Art Crawl co-owner of Reflections art store  married to Harold",
+    "age": "80's - senior",
+    "group": "adult",
+    "description": "Chairperson of the Art Crawl co-owner of Reflections art store  married to Harold. She is a very unpleasant and impolite person",
     "gender": "female",
     "voice": "Larry Murphy",
-    "image": "www.donthaveityet.com"
+    "image": "www.donthaveityet.com",
+    "quote": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/7f/Edith_cranwinkle.jpg"
   },
   {
+    "number": 50,
     "name": "Harold Cranwinkle",
-    "age": "unknown - adult",
-    "description": "co-owner of Reflections art store - married to Edith",
+    "age": "70's - 80's -  senior",
+    "group": "adult",
+    "description": "Co-owner of Reflections art store - married to Edith. He always has an insulting name for Bob including; Tubby, Fatsy, Charlie, Flapjack, Bob Fosse, and Chump.",
     "gender": "male",
     "voice": "Bobby Tisdale",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/69/Harold_cranwinkle.jpg",
+    "quote": ""
   },
   {
+    "number": 51,
     "name": "Fanny",
     "age": "29",
+    "group": "adult",
     "description": "Felix Fischoeder's girlfriend and an aspiring singer. She calls her left breast Milo and her right breast Otis also wears weasel fur eyelash extensions",
     "gender": "female",
     "voice": "Jordan Peele",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/4e/Fanny.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/4e/Fanny.jpg",
+    "quote": ""
   },
   {
+    "number": 52,
     "name": "Felix Fischoeder",
-    "age": "50's - adult",
+    "age": "50's",
+    "group": "adult",
     "description": "the younger brother of Calvin Fischoeder known to be rather neurotic and as having emotional issues",
     "gender": "male",
     "voice": "Zach Galifianakis",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/00/Felix_Fischoeder.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/00/Felix_Fischoeder.png",
+    "quote": ""
   },
   {
+    "number": 53,
     "name": "Glitter",
-    "age": "unknown - adult",
+    "age": "20's-50's",
+    "group": "adult",
     "description": "A transgender sex worker who Bob regularly ferries around in his taxi",
     "gender": "trans",
     "voice": "Steve Agee",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/d6/Glitter.jpg",
+    "quote": ""
   },
   {
+    "number": 54,
     "name": "Gretchen",
-    "age": "unknown - adult",
+    "age": "20's-30's",
+    "group": "adult",
     "description": "Gretchen has blonde hair, and is Linda's hairstylist she is somewhat overweight and provocative",
     "gender": "female",
     "voice": "Larry Murphy",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/03/Gretchen.jpg",
+    "quote": ""
   },
   {
+    "number": 55,
     "name": "Hugo Habercore",
-    "age": "unknown - adult",
+    "age": "40's",
+    "group": "adult",
     "description": "a health inspector who used to be engaged to Linda",
     "gender": "male",
     "voice": "Sam Seder",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/17/Hugo_Habercore.png",
+    "quote": ""
   },
   {
+    "number": 56,
     "name": "Jairo",
-    "age": "unknown - adult",
+    "age": "20's - 30's",
+    "group": "adult",
     "description": "Brazilian capoeira instructor",
     "gender": "male",
     "voice": "Jon Glaser",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/a/a6/Jairo2.png",
+    "quote": ""
   },
   {
+    "number": 57,
     "name": "Javed Fazel",
-    "age": "unknown - adult",
+    "age": "30's-40's",
+    "group": "adult",
     "description": "an entomologist and loves watching bugs",
     "gender": "male",
     "voice": "Larry Murphy",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/1b/Javed.png",
+    "quote": ""
   },
   {
+    "number": 58,
     "name": "Jen",
-    "age": "unknown - 'teen'",
+    "age": "20's",
+    "group": "kid",
     "description": "the babysitter for Gene and Louise when Tina is unavailable",
     "gender": "female",
     "voice": " Wendy Molyneux",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/0a/Jen.jpg",
+    "quote": ""
   },
   {
+    "number": 59,
     "name": "Josh",
-    "age": "13",
+    "age": "14",
+    "group": "kid",
     "description": "A boy tina met who goes to a school for performing arts and is a ballet dancer",
     "gender": "male",
     "voice": "Ben Schwartz",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/ec/Josh2.jpg",
+    "quote": ""
   },
   {
+    "number": 60,
     "name": "Kevin",
-    "age": "unknown - adult",
+    "age": "40's-50's",
+    "group": "adult",
     "description": "manager of Dusty's Feedbag",
     "gender": "male",
     "voice": "Tim Heidecker",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/f1/Kevin.png",
+    "quote": ""
   },
   {
+    "number": 61,
     "name": "Marbles",
-    "age": "unknown - adult",
+    "age": "20's - 50's",
+    "group": "adult",
     "description": "A transgender prostitute",
     "gender": "trans",
     "voice": "Jack McBrayer",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/b0/Marbles.jpg",
+    "quote": ""
   },
   {
+    "number": 62,
     "name": "Logan Barry Bush",
-    "age": "unknown - kid",
-    "description": "Louise's nemesis and Cynthia's son",
+    "age": "14-17",
+    "group": "kid",
+    "description": "Louise's nemesis and Cynthia's son, a student at Huxley High",
     "gender": "male",
     "voice": "Kurt Braunohler",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/4d/Logan_Bush.jpg",
+    "quote": ""
   },
   {
+    "number": 63,
     "name": "Marshmallow",
-    "age": "unknown - adult",
+    "age": "20's ",
+    "group": "adult",
     "description": "The perfect thing to melt on top of sweet potatoes",
     "gender": "trans",
     "voice": "David Herman",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/5b/Marshmellow.jpg",
+    "quote": ""
   },
   {
+    "number": 64,
     "name": "Mickey",
-    "age": "unknown - adult",
-    "description": "A former bank robber who took a shine to the Belcher kids.",
+    "age": "20's-30's",
+    "group": "adult",
+    "description": "A former bank robber who took a shine to the Belcher kids and turns his life around.",
     "gender": "male",
     "voice": "Bill Hader",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/d9/Mickey.png",
+    "quote": ""
   },
   {
+    "number": 65,
     "name": "Mike Wobbles",
-    "age": "unknown - adult",
+    "age": "30's",
+    "group": "adult",
     "description": "The mailman and one of his legs is shorter than the other.",
     "gender": "male",
     "voice": "Tim Meadows",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/9/90/Mike.jpg",
+    "quote": ""
   },
   {
+    "number": 66,
     "name": "Mr. Huggins",
-    "age": "unknown - adult",
-    "description": "An eldery citizen who recently got a new bed",
+    "age": "50's - 70's - senior",
+    "group": "adult",
+    "description": "An eldery citizen who recently got a new bed, Has a tattoo on his lower back that he was told was a 'yin-yang'. Bob and Teddy's reactions to it imply that it is not a good tattoo.",
     "gender": "male",
     "voice": "George Wallace",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/48/Huggins.png",
+    "quote": ""
   },
   {
+    "number": 67,
     "name": "Officer Julia",
-    "age": "unknown - adult",
-    "description": "Julia is a local police officer",
+    "age": "30's",
+    "group": "adult",
+    "description": "Julia is a local police officer with black hair",
     "gender": "female",
     "voice": "Jerry Minor",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/9/92/Officer_Julia.jpg",
+    "quote": ""
   },
   {
+    "number": 68,
     "name": "Officer Cliffany",
-    "age": "unknown - adult",
-    "description": "a local tall, androgynous, and overweight police officer.",
-    "gender": "male",
+    "age": "20's - 40's",
+    "group": "adult",
+    "description": "a local tall, androgynous, and overweight police officer with short blonde hair.",
+    "gender": "female",
     "voice": "Sam Seder",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/f2/Officer_Cliffany.jpg",
+    "quote": ""
   },
   {
+    "number": 69,
     "name": "Critter",
-    "age": "unknown - adult",
+    "age": "30's",
+    "group": "adult",
     "description": "leader of the one eyed snakes motorcycle gang",
     "gender": "male",
-    "voice": "Bobby Tisdale",
-    "image": "www.donthaveityet.com"
+    "voice": "Robert Ben Garant",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/df/Critter-1.jpg",
+    "quote": ""
   },
   {
+    "number": 70,
     "name": "Mudflap",
-    "age": "unknown - adult",
-    "description": "Female member of one eyed snakes and lover to Critter",
+    "age": "30's-40's",
+    "group": "adult",
+    "description": "Female member of one eyed snakes and lover to Critter, she gives birth in the restaurant.",
     "gender": "female",
     "voice": "Wendi McClendon-Covey",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/e6/Mudflap.jpg",
+    "quote": ""
   },
   {
+    "number": 71,
     "name": "Olsen Brenner",
-    "age": "unknown - adult",
+    "age": "30's ",
+    "group": "adult",
     "description": "local news correspondent channel 6",
     "gender": "female",
     "voice": "Pamela Adlon",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/43/Olsen.jpg",
+    "quote": ""
   },
   {
+    "number": 72,
     "name": "Pam",
-    "age": "unknown - adult",
+    "age": "30's ",
+    "group": "adult",
     "description": "daytime talk-show host - Chuck's ex wife",
     "gender": "female",
     "voice": "Samantha Bee",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/ff/Pam.jpg",
+    "quote": ""
   },
   {
+    "number": 73,
     "name": "The Prince of Persuasia",
-    "age": "unknown - adult",
+    "age": "30's - 40's",
+    "group": "adult",
     "description": "The 'Deuce', the 'love guru', a baseball coach, scam artist ",
     "gender": "male",
     "voice": "Rob Huebel",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/8/85/Bobs-Burgers-Wiki_Prince-of-Persuasia_01.jpg",
+    "quote": ""
   },
   {
+    "number": 74,
     "name": "Randy Watkins",
-    "age": "unknown - adult",
-    "description": "Randy is a jack-of-all-trades who alternately appears as a friend or enemy of the Belchers",
+    "age": "30's - 40's",
+    "group": "adult",
+    "description": "Randy is a jack-of-all-trades who alternately appears as a friend or enemy of the Belchers. A film maker and food truck owner",
     "gender": "male",
     "voice": "Paul F. Tompkins",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/2/2c/Randy_Watkins.jpg",
+    "quote": ""
   },
   {
+    "number": 75,
     "name": "Reggie",
-    "age": "unknown - adult",
-    "description": "owner of Reggie's Deli, gives the wet willie",
+    "age": "40's-60's",
+    "group": "adult",
+    "description": "owner of Reggie's Deli, gives the wet willie to the Moody Foodie",
     "gender": "male",
     "voice": "Eddie Pepitone",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/2/24/Reggie-1.jpg",
+    "quote": ""
   },
   {
+    "number": 76,
     "name": "Ron",
-    "age": "unknown - adult",
+    "age": "20's - 30's",
+    "group": "adult",
     "description": "Hugo's assistant/trainee health inspector",
     "gender": "female",
-    "voice": "Bobby Tisdale",
-    "image": "www.donthaveityet.com"
+    "voice": "Ron Lynch",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/5c/Ron.jpg",
+    "quote": ""
   },
   {
+    "number": 77,
     "name": "Samantha",
-    "age": "unknown - adult",
-    "description": "A blind date for Mort",
+    "age": "30's - 40's",
+    "group": "adult",
+    "description": "A blind date for Mort and a lady mortician (she's a lady and a mortician to all genders when they pass)",
     "gender": "female",
     "voice": "Amy Sedaris",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/c7/Samantha.jpg",
+    "quote": ""
   },
   {
+    "number": 78,
     "name": "Sasha Whiteman",
-    "age": "unknown - kid",
+    "age": "12-14",
+    "group": "kid",
     "description": "member of the King's Head Island school swim and debate team",
     "gender": "male",
     "voice": "Jon Daly",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/04/Sasha.png",
+    "quote": ""
   },
   {
+    "number": 79,
     "name": "Sergant Bosco",
-    "age": "unknown - adult",
+    "age": "50's",
+    "group": "adult",
     "description": "An authoritarian, no-nonsense police sergeant",
     "gender": "male",
     "voice": "Gary Cole",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/62/Sergeant_Bosco.png",
+    "quote": ""
   },
   {
+    "number": 80,
     "name": "Speedo Guy",
-    "age": "unknown - adult",
+    "age": "20's",
+    "group": "adult",
     "description": " 'unnamed' blonde man in a pink speedo and roller blades who appears randomly in the series",
     "gender": "male",
     "voice": "H Jon Benjamin",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/47/Speedo.jpg",
+    "quote": ""
   },
   {
+    "number": 81,
     "name": "Torpedo Jones",
-    "age": "unknown - adult",
+    "age": "44",
+    "group": "adult",
     "description": "a former baseball player who also happens to be Bob's idol",
     "gender": "male",
     "voice": "Robert Ben Garant",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/61/Torpedo_Jones.jpg",
+    "quote": ""
   },
   {
+    "number": 82,
     "name": "Trev",
-    "age": "unknown - adult",
+    "age": "20's",
+    "group": "adult",
     "description": "a bartender at Jimmy Pesto's Pizzeria - Jimmy's #2 guy",
     "gender": "male",
     "voice": "David Herman",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/33/Trev.jpg",
+    "quote": ""
   },
   {
+    "number": 83,
     "name": "Yuli",
-    "age": "unknown - adult",
+    "age": "30's-50's",
+    "group": "adult",
     "description": "security guard that works at : Family Funtime, the roller rink, and Wagstaff school",
     "gender": "female",
-    "voice": "Bobby Tisdale",
-    "image": "www.donthaveityet.com"
+    "voice": "Robert Smigel",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/0f/Yuli.jpg",
+    "quote": ""
   },
   {
+    "number": 84,
     "name": "Horny Dave",
-    "age": "unknown - adult",
-    "description": "Original leader of the One Eyed Snakes motorcycle gang, survived a vasectomy in 1995",
+    "age": "40's -60's deceased",
+    "group": "adult",
+    "description": "Original leader of the One Eyed Snakes motorcycle gang, survived a vasectomy in 1995, currently deceased",
     "gender": "male",
     "voice": "unknown",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/42/Horny_Dave.png/revision/latest?cb=20150103150717",
+    "quote": ""
   },
   {
+    "number": 85,
     "name": "Mr. Grant",
-    "age": "unknown - adult ",
+    "age": "30's - adult ",
+    "group": "adult",
     "description": "Teacher of morning announcements / AV club at wagstaff",
     "gender": "male",
     "voice": "Will Forte",
-    "image": "www.donthaveityet.com"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/0a/Mr_Grant.jpg",
+    "quote": ""
   },
   {
+    "number": 86,
     "name": "Mr. Dinkler",
-    "age": "unknown - adult",
+    "age": "30's - 40's - adult",
+    "group": "adult",
     "description": "Science Teacher obsessed with Thomas Edison",
     "gender": "male",
-    "voice": " ",
-    "image": "www.donthaveityet.com"
+    "voice": "Mark Proksch",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/a/a2/Mr_Dinkler.jpg",
+    "quote": ""
   },
   {
+    "number": 87,
     "name": "Griffin",
-    "age": "unknown - kid ",
+    "age": "12-14 - kid ",
+    "group": "kid",
     "description": "Tina's favorite member of Boyz4now",
     "gender": "male",
     "voice": " Larry Murphy",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/17/Griffin_-_01.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/17/Griffin_-_01.jpg",
+    "quote": ""
   },
   {
+    "number": 88,
     "name": "Matt",
-    "age": "unknown - 'teen' ",
+    "age": "18-30's - 'teen' ",
+    "group": "adult",
     "description": "Oldest member of Boyz4now",
     "gender": "male",
     "voice": "H. Jon Benjamin",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/dc/Matt-2.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/dc/Matt-2.jpg",
+    "quote": ""
   },
   {
+    "number": 89,
     "name": "Allen",
-    "age": "unknown - kid",
+    "age": "11-14 - kid",
+    "group": "kid",
     "description": "The shy member of Boyz4now",
     "gender": "male",
     "voice": "unknown",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/4a/Allen.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/4a/Allen.jpg",
+    "quote": ""
   },
   {
+    "number": 90,
     "name": "Boo-Boo",
-    "age": "unknown - kid",
+    "age": "9-12 - kid",
+    "group": "kid",
     "description": "Louise's crush / favorite member of Boyz4now",
     "gender": "male",
     "voice": "Max Greenfield",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/6f/Boo_Boo_-_01.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/6f/Boo_Boo_-_01.jpg",
+    "quote": ""
   },
   {
+    "number": 91,
     "name": "Jody",
-    "age": "unknown - adult",
+    "age": "30's - adult",
+    "group": "adult",
     "description": "Bus driver for Boyz4Now",
     "gender": "female",
     "voice": "Tig Notaro",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/dc/Jody.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/dc/Jody.png",
+    "quote": ""
   },
   {
+    "number": 92,
     "name": "Beth",
-    "age": "unknown - adult",
+    "age": "30's - adult",
+    "group": "adult",
     "description": "A member of Wagstaff PTA passionate about cookies",
     "gender": "female",
     "voice": "unknown",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/a/a2/Beth.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/a/a2/Beth.png",
+    "quote": ""
   },
   {
+    "number": 93,
     "name": "Beverly",
-    "age": "unknown - adult",
+    "age": "60's - adult",
+    "group": "adult",
     "description": "Wife of Cooper, co owner of blueberry and cannibas farm",
     "gender": "female",
     "voice": "Megan Mullally",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/51/Beverly.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/51/Beverly.jpg",
+    "quote": ""
   },
   {
+    "number": 94,
     "name": "Cooper",
-    "age": "unknown - adult",
+    "age": "60's - adult",
+    "group": "adult",
     "description": "Husband of Beverly, co owner of blueberry and cannibas farm",
     "gender": "male",
     "voice": "Nick Offerman",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/51/Beverly.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/51/Beverly.jpg",
+    "quote": ""
   },
   {
+    "number": 95,
     "name": "Brett",
-    "age": "unknown - kid",
+    "age": "10-13 - kid",
+    "group": "kid",
     "description": "A student visiting his grandfather on spring break whom Tammy falls for.",
     "gender": "male",
     "voice": "Andy Samberg",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/4e/Brett.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/4e/Brett.png",
+    "quote": ""
   },
   {
+    "number": 96,
     "name": "Butcher Guy",
-    "age": "unknown - adult",
+    "age": "30's-40's - adult",
+    "group": "adult",
     "description": "unnamed cashier, and deli worker, who mistakes Bob's frequent turkey purchases in the episode, 'Turkey in a Can' as romantic interest.",
     "gender": "male",
     "voice": "Tuc Watkins",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/41/Deli-Guy.transparent.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/41/Deli-Guy.transparent.png",
+    "quote": ""
   },
   {
+    "number": 97,
     "name": "Chet",
-    "age": "unknown - adult",
+    "age": "30's - adult",
+    "group": "adult",
     "description": "Amazing window display designer whi thinks he was once a mannequin",
     "gender": "male",
     "voice": "Zach Galifianakis",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/d4/Chet2.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/d4/Chet2.jpg",
+    "quote": ""
   },
   {
+    "number": 98,
     "name": "Claire",
-    "age": "unknown - kid",
-    "description": "Popular blonde girl at Wagstaff school",
+    "age": "13 - kid",
+    "description": "Popular blonde girl at Wagstaff school in Tina's grade ",
     "gender": "female",
     "voice": "Lindsey Stoddart",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/64/Claire_und_Jacqueline.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/64/Claire_und_Jacqueline.jpg",
+    "quote": ""
   },
   {
+    "number": 99,
     "name": "Jacqueline",
-    "age": "unknown - kid",
-    "description": "Popular burnette girl at Wagstaff school",
+    "age": "12 - kid",
+    "group": "kid",
+    "description": "Popular burnette girl at Wagstaff school in Tina's grade",
     "gender": "female",
     "voice": "John Roberts",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/64/Claire_und_Jacqueline.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/64/Claire_und_Jacqueline.jpg",
+    "quote": ""
   },
   {
+    "number": 100,
     "name": "Curt",
     "age": "currently an adult - in flashback - 13",
+    "group": "kid",
     "description": "Not the seaplane captian - Only appearing in a flashback during Bob's middle school days - he is a bully to Bob",
     "gender": "male",
     "voice": "Bobby Tisdale",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/d4/Curt_%28Bully%29.jpg"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/d4/Curt_%28Bully%29.jpg",
+    "quote": ""
   },
   {
+    "number": 101,
     "name": "Dennis",
-    "age": "unknown - adult",
+    "age": "40's - adult",
+    "group": "adult",
     "description": "A truck driving man of many cameos, and according to Teddy, he gets dirty massages.",
     "gender": "male",
     "voice": "unknown",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/76/Dennis.jpg/revision"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/76/Dennis.jpg/revision",
+    "quote": ""
   },
   {
+    "number": 102,
     "name": "Ed Samuels",
-    "age": "unknown - adult",
+    "age": "20's - 30's - adult",
+    "group": "adult",
     "description": "married to Nora - A customer when the Belchers run a bed and breakfast who is into latex, rubber, and whips",
     "gender": "male",
     "voice": "unknown",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/8/89/Ed_Samuels.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/8/89/Ed_Samuels.png",
+    "quote": ""
   },
   {
+    "number": 103,
     "name": "Nora Samuels",
-    "age": "unknown - adult",
-    "description":"married to Ed - A customer when the Belchers run a bed and breakfast who is into latex, rubber, and whips",
+    "age": "20's - 30's - adult",
+    "group": "adult",
+    "description": "married to Ed - A customer when the Belchers run a bed and breakfast who is into latex, rubber, and whips",
     "gender": "female",
     "voice": "unknown",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/09/NoraSamuels.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/09/NoraSamuels.png",
+    "quote": ""
   },
   {
+    "number": 104,
     "name": "Grover Fischoeder",
     "age": "40's",
+    "group": "adult",
     "description": "A lawyer, cousin to Felix and Calvin, - into snail wrestling",
     "gender": "male",
     "voice": "David Wain",
-    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/51/Grover.png"
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/51/Grover.png",
+    "quote": ""
   },
   {
-    "name": " ",
-    "age": " ",
+    "number": 105,
+    "name": "Gus",
+    "age": "60's - 70's",
+    "group": "Adult",
+    "description": " semi-retired - dock worker / lifeguard / bird expert",
+    "gender": "male",
+    "voice": "H. Jon Benjamin",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/68/Gus.jpg",
+    "quote": ""
+  },
+  {
+    "number": 106,
+    "name": "Kurt Enerny",
+    "age": "30's-40's",
+    "group": "Adult",
+    "description": "'Up-skirt Kurt' the nefarious sea plane captian who tries to seduce Linda Belcher. Brother to Laverne.",
+    "gender": "male",
+    "voice": "Will Forte",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/1e/Upskirt_kurt.jpg",
+    "quote": ""
+  },
+  {
+    "number": 107,
+    "name": "Laverne Enerny",
+    "age": "30's-40's",
+    "group": "adult",
+    "description": "A stunt pilot and sister to Kurt",
+    "gender": "female",
+    "voice": "Brooke Dillman",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/18/Laverne.png",
+    "quote": ""
+  },
+  {
+    "number": 108,
+    "name": "Helen Kellerman",
+    "age": "60's-80's - senior",
+    "group": "adult",
+    "description": "A resident of the Glades at Palmetto Village retirement Community, She bribes the kids to find her dog which may have been eaten by a python.",
+    "gender": "female",
+    "voice": "Linda Lavin",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/10/Helen_Kellerman.jpg",
+    "quote": ""
+  },
+  {
+    "number": 109,
+    "name": "Larry Goodwin",
+    "age": "20's - 30's - deceased",
+    "group": "adult",
+    "description": "Helen Goodwin's deceased husband, a clock maker in his former life.",
+    "gender": "male",
+    "voice": "not avaliable",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/61/Larry_Goodwin.png",
+    "quote": ""
+  },
+  {
+    "number": 110,
+    "name": "Helen Goodwin",
+    "age": "30's",
+    "group": "adult",
+    "description": "Widower of Larry and heir apparent to the Goodwin Clock fortune",
+    "gender": "female",
+    "voice": "Kaitlin Olson",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/c1/Helen.jpg",
+    "quote": ""
+  },
+  {
+    "number": 111,
+    "name": "Jeff",
+    "age": "13 - unknown",
+    "group": "kid",
+    "description": "A shoe box containing a ghost in love with Tina.",
+    "gender": "male",
+    "voice": "none",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/ff/Jeff.jpg",
+    "quote": ""
+  },
+  {
+    "number": 112,
+    "name": "Jessica",
+    "age": "9-10",
+    "group": "kid",
+    "description": "Louises classmate she thinks is a 'boring bed-wetter'",
+    "gender": "female",
+    "voice": "Kathryn Hahn",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/1b/Jessica.jpg",
+    "quote": ""
+  },
+  {
+    "number": 113,
+    "name": "Jonas",
+    "age": "14-16",
+    "group": "kid",
+    "description": "Delivery boy for Reggie's Deli - master of the melodica",
+    "gender": "male",
+    "voice": "Paul Rust",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/0/0b/Jonas-2.jpg",
+    "quote": ""
+  },
+  {
+    "number": 114,
+    "name": "Jordan Cagan",
+    "age": "12-14",
+    "group": "kid",
+    "description": "aka 'Ghost Boy' the graffiti artisit and local bad boy",
+    "gender": "male",
+    "voice": "Nathan Fielder",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/30/JordanK.jpg",
+    "quote": ""
+  },
+  {
+    "number": 115,
+    "name": "Julie",
+    "age": "11",
+    "group": "kid",
+    "description": "friend of Courtney Wheeler, member of Thundergirls troop 119, 'kind of a motor mouth' according to Tina.",
+    "gender": "female",
+    "voice": "Melissa Bardin Galsky",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/d8/Julie.jpg",
+    "quote": ""
+  },
+  {
+    "number": 116,
+    "name": "Katie",
+    "age": "10-14",
+    "group": "kid",
+    "description": "a member of Thundergirls troop 119 who is in honors math class",
+    "gender": "female",
+    "voice": "John Roberts",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/db/Katie-2.jpg",
+    "quote": ""
+  },
+  {
+    "number": 117,
+    "name": "Molly",
+    "age": "9-13",
+    "group": "kid",
+    "description": "a double-jointed member of Thundergirls troop 119 ",
+    "gender": "female",
+    "voice": "unknown",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/7f/Molly.jpg",
+    "quote": ""
+  },
+  {
+    "number": 118,
+    "name": "Harley",
+    "age": "10-14",
+    "group": "kid",
+    "description": "She is very talkative and is seemingly oblivious to the fact that Louise wants her to shut up all the time. A member of Thundergirls troop 119",
+    "gender": "female",
+    "voice": "Katie Crown",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/e4/Harley.png",
+    "quote": ""
+  },
+  {
+    "number": 119,
+    "name": "Ginny",
+    "age": "20's-30's",
+    "group": "adult",
+    "description": "troop leader for Thundergirls 119 - office worker and cycling enthuasist by day",
+    "gender": "female",
+    "voice": "Brooke Dillman",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/2/2d/Ginny.jpg",
+    "quote": ""
+  },
+  {
+    "number": 120,
+    "name": "Bethany",
+    "age": "30's - 40's",
+    "group": "adult",
+    "description": "leader of Thundergirls troop 257, she is nice and friendly unlike her troop.",
+    "gender": "female",
+    "voice": "Rachel Dratch",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/ea/Bethany257.png",
+    "quote": ""
+  },
+  {
+    "number": 121,
+    "name": "Patty",
+    "age": "12-14",
+    "group": "kid",
+    "description": "kinda sudo leader of bad girls Thundergirl troop 257",
+    "gender": "female",
+    "voice": "Betsy Sodaro",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/17/Patty.jpg",
+    "quote": ""
+  },
+  {
+    "number": 122,
+    "name": "Larissa",
+    "age": "12-14",
+    "group": "kid",
+    "description": "a bully and mean girl and member of Thundergirls troop 257",
+    "gender": "male",
+    "voice": "unknown",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/12/Larissa.png",
+    "quote": ""
+  },
+  {
+    "number": 123,
+    "name": "Rena",
+    "age": "9-12",
+    "group": "kid",
+    "description": "red-head member of Thundergirls troop 257 - who acts as a mole to get cookie info from troop 119",
+    "gender": "male",
+    "voice": "Sarah Baker",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/ed/Rena.jpg",
+    "quote": ""
+  },
+  {
+    "number": 124,
+    "name": "Kuchi Kopi",
+    "age": "unknown",
+    "group": "kid",
+    "description": " (くーちぃ こーぴぃ) is a fictitious character that has appeared in many forms throughout the show including: night light, tootbrush, walkie talkies, and friend to Louise.",
+    "gender": "unknown",
+    "voice": "H. Jon Benjamin",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/ce/Kuchi.png",
+    "quote": ""
+  },
+  {
+    "number": 125,
+    "name": "Leslie",
+    "age": "15-17",
+    "group": "kid",
+    "description": "Cousin to Zeke",
+    "gender": "male",
+    "voice": "Jack McBrayer",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/3/38/Leslie.png",
+    "quote": ""
+  },
+  {
+    "number": 126,
+    "name": "Tom Bush",
+    "age": "40's",
+    "group": "adult",
+    "description": "Husband to Cynthia and father to Logan. He is a doctor and sometimes timid.",
+    "gender": "male",
+    "voice": "unknown",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/53/Tom_Bush.jpg",
+    "quote": ""
+  },
+  {
+    "number": 127,
+    "name": "Goldie",
+    "age": "30's - 40's",
+    "group": "adult",
+    "description": "A member of the Easy Beavers motorcylce gang and friend to Mudflap. Goldie also gives birth in the restaurant",
+    "gender": "male",
+    "voice": "Brooke Dillman",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/63/Goldie.png",
+    "quote": ""
+  },
+  {
+    "number": 128,
+    "name": "Michael Carlish",
+    "age": "12",
+    "group": "kid",
+    "description": "a 7th grader at wagstaff school",
+    "gender": "male",
+    "voice": "H. Jon Benjamin",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/c2/MikeC.jpg",
+    "quote": ""
+  },
+  {
+    "number": 129,
+    "name": "Moody Foodie",
+    "age": "20's-30's",
+    "group": "adult",
+    "description": "A food critic so renowed a bad review from him can close a restaurant",
+    "gender": "male",
+    "voice": "Patton Oswalt",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/1/11/Moodie_Foodie.jpg",
+    "quote": ""
+  },
+  {
+    "number": 130,
+    "name": "Mr. Dowling",
+    "age": "40's-50's",
+    "group": "adult",
+    "description": "A manager at First Oceanside Savings Bank. Also Mr. Frond's shoe twin",
+    "gender": "male",
+    "voice": "Craig Anton",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/b/b0/Dowling.jpg",
+    "quote": ""
+  },
+  {
+    "number": 131,
+    "name": "Hogarth Haber",
+    "age": "9-10",
+    "group": "kid",
+    "description": "Henry Haber's younger brother who is in Ms. LaBonz’s fourth grade class with Louise ",
+    "gender": "male",
+    "voice": "unknown",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/a/ad/Hogarth.png",
+    "quote": ""
+  },
+  {
+    "number": 132,
+    "name": "Normal Sized Jenny",
+    "age": "11",
+    "group": "kid",
+    "description": "a student at Wagstaff School ",
+    "gender": "female",
+    "voice": "unknown",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/78/Normal_Sized_Jenny.png",
+    "quote": ""
+  },
+  {
+    "number": 133,
+    "name": "Skip Marooch",
+    "age": "30's - 40's",
+    "group": "adult",
+    "description": "a famous restauranteur and author originally from Pakistan",
+    "gender": "male",
+    "voice": "Kumail Nanjiani",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/7/71/Skip_Marooch.jpg",
+    "quote": ""
+  },
+  {
+    "number": 134,
+    "name": "Pocket sized Rudy",
+    "age": "8-12",
+    "group": "kid",
+    "description": "It is unknown whether he is naturally short or if he has a medical condition that restricts his growth. It is also not known what age he is or which grade he is in.",
+    "gender": "male",
+    "voice": "Larry Murphy",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/6/62/Pocket_Head.png",
+    "quote": ""
+  },
+  {
+    "number": 135,
+    "name": "Owen",
+    "age": "30's - 40's",
+    "group": "adult",
+    "description": "an employee at Wonder-Wharf who also survived a 6 month coma",
+    "gender": "male",
+    "voice": "H. Jon Benjamin",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/2/2d/Owen.jpg",
+    "quote": ""
+  },
+  {
+    "number": 136,
+    "name": "Ruth-Anne Donahue",
+    "age": "30's - 40's",
+    "group": "adult",
+    "description": "Patrick Donahues Mom and a PTA member at Wagstaff & she has inverted arms meaning she can't play sports.",
+    "gender": "female",
+    "voice": "Tami Sagher",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/e/ef/Ruthanne.png",
+    "quote": ""
+  },
+  {
+    "number": 137,
+    "name": "Nicholas",
+    "age": "30's - 40's",
+    "group": "adult",
+    "description": "Has an emotional support dog named Lars due to some trauma he suffered in a college acapella group",
+    "gender": "male",
+    "voice": "John Gemberling",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/a/ac/Nicholas_D.png",
+    "quote": ""
+  },
+  {
+    "number": 138,
+    "name": "Officer McGill",
+    "age": "40's",
+    "group": "adult",
+    "description": "a police officer who permits Gene to say goodbye to the talking toilet he's been caring for before it goes back ",
+    "gender": "male",
+    "voice": "Larry Murphy",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/c4/Officer_McGill.jpg",
+    "quote": ""
+  },
+  {
+    "number": 139,
+    "name": "Patrick Donahue",
+    "age": "10-13",
+    "group": "kid",
+    "description": "According to Gene, he is 'good at math', and 'has a weird laugh.' ",
+    "gender": "male",
+    "voice": "unknown",
+    "image": "www.idonthaveityet.com",
+    "quote": ""
+  },
+  {
+    "number": 140,
+    "name": "Mort's Mother",
+    "age": "86 - senior",
+    "group": "adult",
+    "description": "She plays a major part in The Hauntening where it's revealed that she lives in the house that Bob and Linda use in an attempt to scare Louise. It's also revealed that her boyfriend is a creepy neighbor called Arthur. ",
+    "gender": "female",
+    "voice": "Andy Kindler",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/c0/Morts_Mum.jpg",
+    "quote": ""
+  },
+  {
+    "number": 141,
+    "name": "Shelia Merkin",
+    "age": "70's - 80's - senior",
+    "group": "adult",
+    "description": "An actress an Ms. Merkins sister, she fired her sister from a production of TSA: The Musical.",
+    "gender": "female",
+    "voice": "David Herman",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/54/Sheila.png",
+    "quote": ""
+  },
+  {
+    "number": 142,
+    "name": "Sidecar",
+    "age": "0-1",
+    "group": "kid",
+    "description": "Sidecar is One Eyed Snakes local chapter president Critter and gang member Mudflap's baby son.",
+    "gender": "male",
+    "voice": "H. Jon Benjamin",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/5e/Sidecar.jpg",
+    "quote": ""
+  },
+  {
+    "number": 143,
+    "name": "Ice Pick",
+    "age": "40's - 50's",
+    "group": "adult",
+    "description": "a member of the One Eyed Snakes motorcycle club. ",
+    "gender": "male",
+    "voice": "Larry Murphy",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/c/ce/Ice_Pick.png",
+    "quote": ""
+  },
+  {
+    "number": 144,
+    "name": "Paul Blinkman",
+    "age": "20's - 30's",
+    "group": "adult",
+    "description": "the chairman of the 'Lolla-Pa-Foods-A-Festival' featured in Food Truckin' ",
+    "gender": "male",
+    "voice": "Scott Jacobson",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/8/80/Blinkman.jpg",
+    "quote": ""
+  },
+  {
+    "number": 145,
+    "name": "Roger Flanley",
+    "age": "40's",
+    "group": "adult",
+    "description": "an IRS agent, ",
+    "gender": "male",
+    "voice": "Ken Marino",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/d4/Flanley.jpg",
+    "quote": ""
+  },
+  {
+    "number": 146,
+    "name": "Rose Reynolds",
+    "age": "40's - 50's",
+    "group": "adult",
+    "description": "a former student of Wagstaff School and ceramics enthuasist ",
+    "gender": "female",
+    "voice": "Pameka Adlon",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/4/4f/Rose.png",
+    "quote": ""
+  },
+  {
+    "number": 147,
+    "name": "Yuki Kojima",
+    "age": "20's - 30's",
+    "group": "adult",
+    "description": "Shinji Kojima's daughter. She starred with him in the Hawk and Chick film series playing Chick, daughter of Shinji's character, Rising Hawk.",
+    "gender": "female",
+    "voice": "Suzy Nakamura",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/d/d3/Yuki.png",
+    "quote": ""
+  },
+  {
+    "number": 148,
+    "name": "Shinji Kojima",
+    "age": "60's",
+    "group": "adult",
+    "description": "Shinji 'Koji' Kojima is an actor who is known for portraying the character 'Rising Hawk' in the Hawk and Chick series of films made in Japan",
+    "gender": "male",
+    "voice": "Keisuke Hoashi",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/f/f2/Koji.png",
+    "quote": ""
+  },
+  {
+    "number": 149,
+    "name": "Zander",
+    "age": "10",
+    "group": "kid",
+    "description": "a kleptomaniac for which he is receiving counseling for despite his assertions to the contrary - Steve's son",
+    "gender": "male",
+    "voice": "H. Jon Benjamin",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/2/2f/Zander.jpg/",
+    "quote": ""
+  },
+  {
+    "number": 150,
+    "name": "Steve",
+    "age": "30's - 40's",
+    "group": "adult",
+    "description": "an archeologist who does not like his line of work being compared to that of Indiana Jones.",
+    "gender": "male",
+    "voice": "Rob Huebel",
+    "image": "https://vignette.wikia.nocookie.net/bobsburgerpedia/images/5/53/Steve.jpg",
+    "quote": ""
+  },
+  {
+    "number": 151,
+    "name": "  ",
+    "age": "1 ",
+    "group": " ",
     "description": " ",
     "gender": "male",
-    "voice": " ",
-    "image": " "
+    "voice": "unknown",
+    "image": "www.idonthaveityet.com",
+    "quote": ""
   }
 ]

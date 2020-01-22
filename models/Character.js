@@ -1,12 +1,15 @@
 const mongoose = require("../db/connection");
 
 const CharacterSchema = new mongoose.Schema({
+  number: Number,
   name: String,
   age: String,
+  group: String,
   description: String,
   gender: String,
-  voice:String,
-  image: String
+  voice: String,
+  image: String,
+  quote: String
 });
 
 const Character = mongoose.model("Character", CharacterSchema);
